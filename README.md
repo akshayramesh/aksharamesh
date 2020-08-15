@@ -1,4 +1,4 @@
-# aksharamesh
+# akshayramesh
 
 ## Areas
 - JavaScript
