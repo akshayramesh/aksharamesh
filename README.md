@@ -1,2 +1,6 @@
 # aksharamesh
-readme file for github profile
+
+## Areas
+- JavaScript
+- TypeScript
+- NodeJS
