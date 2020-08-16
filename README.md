@@ -6,7 +6,7 @@ Hi, I am Akshay
 - NodeJS
 
 ## Quick links to Top Projects
-- [Pet-Projects] (https://github.com/akshayramesh/Pet-Projects)
-- [TypeScript based] (https://github.com/akshayramesh/TypeScript-learnings)
+- [Pet-Projects](https://github.com/akshayramesh/Pet-Projects)
+- [TypeScript based](https://github.com/akshayramesh/TypeScript-learnings)
 
 
