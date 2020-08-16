@@ -5,8 +5,8 @@ Hi, I am Akshay
 - TypeScript
 - NodeJS
 
-## Projects
-- [Pet-Projects]
-- [TypeScript based]
-- [Portfolio websites]
+## Quick links to Top Projects
+- [Pet-Projects] (https://github.com/akshayramesh/Pet-Projects)
+- [TypeScript based] (https://github.com/akshayramesh/TypeScript-learnings)
+
 
